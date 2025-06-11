@@ -3,6 +3,6 @@ channels:
     - conda-forge
 dependencies:
   - tensorflow-gpu
-  - cudatoolkit=9.0
+  - cudatoolkit=11.8
   - matplotlib
   - keras-gpu
